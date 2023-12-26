@@ -1,0 +1,478 @@
+
+--- Placement method of the translated text ---
+
+>Sample Eng text for translate</Entry> = >Sample translated Russion text 
+
+For Example :
+>Sample single line text>
+>中文翻译文本样本</Entry>
+
+>Sample text of two lines of the first part
+Sample text of two lines of the second part</Entry>
+
+>第一部分的两行示例文本
+第二部分两行示例文本</Entry>
+
+***
+
+Note that the numbers must be written as letters.
+
+For Example :
+Chapter 1 = should be written like "Chapter One"
+
+***
+
+Some texts start with the word "-Female" and "-Girl Kid" and this indicates that
+the sentence is spoken by the female gender and the rest will be said by the male.
+
+
+---------------- Thanks ---------------------
+
+>Continue</Entry>
+>Продовжити</Entry>
+>Return</Entry>
+>Назад</Entry>
+>New Game</Entry>
+>Нова гра</Entry>
+>Extras</Entry>
+>Додаткове</Entry>
+>Chapters</Entry>
+>Розділи</Entry>
+>Prologue</Entry>
+>Пролог</Entry>
+>Chapter One</Entry>
+>Розділ перший</Entry>
+>Chapter Two</Entry>
+>Розділ другий</Entry>
+>Chapter Three</Entry>
+>Розділ третій</Entry>
+>You have to complete the story first</Entry>
+>Спершу ви повинні завершити історію</Entry>
+>Load Game</Entry>
+>Завантажити</Entry>
+>Save Game</Entry>
+>Зберегти</Entry>
+>Settings</Entry>
+>Налаштування</Entry>
+>Main Menu</Entry>
+>Головне меню</Entry>
+>Quit</Entry>
+>Вийти</Entry>
+>Retry</Entry>
+>Ще раз</Entry>
+>Yes</Entry>
+>Так</Entry>
+>Cancel</Entry>
+>Скасувати</Entry>
+>OK</Entry>
+>Гаразд</Entry>
+>No</Entry>
+>Ні</Entry>
+>Back</Entry>
+>Назад</Entry>
+>Delete</Entry>
+>Видалити</Entry>
+>Load</Entry>
+>Load</Entry>
+>Apply</Entry>
+>Select</Entry>
+>Move</Entry>
+
+>Are you sure?
+All saved progress will be lost</Entry>
+
+>Paused</Entry>
+>EXAMPLES</Entry>
+>THERE ARE NO SAVED GAME</Entry>
+>Your heart stopped beating</Entry>
+>Are you sure?</Entry>
+>Press any key</Entry>
+>The control binded to the "{action}" action will be removed!</Entry>
+>There is an action that has the same control bound. Do you want to rebind the action anyway?</Entry>
+
+>General</Entry>
+>Graphic</Entry>
+>Controls</Entry>
+>Credits</Entry>
+>Subtitle Language</Entry>
+>Controller</Entry>
+>Brightness</Entry>
+>Vertical Look Sensitivity</Entry>
+>Horizontal Look Sensitivity</Entry>
+>Mouse Sensitivity</Entry>
+>Invert Vertical Look</Entry>
+>Bloom</Entry>
+>Film Grain</Entry>
+>Motion Blur</Entry>
+>Ambient Occlusion</Entry>
+>Resolution</Entry>
+>Screen Mode</Entry>
+>Game Quality</Entry>
+>Antialiasing</Entry>
+>Texture Quality</Entry>
+>Shadow Quality</Entry>
+>Shadow Distance</Entry>
+>Vertical Sync</Entry>
+>ENABLED</Entry>
+>DISABLED</Entry>
+>Fullscreen</Entry>
+>Fullscreen Windowed</Entry>
+>Windowed</Entry>
+>Low</Entry>
+>Medium</Entry>
+>High</Entry>
+>Ultra</Entry>
+>Custom</Entry>
+>The control binded to the "{action}" action will be removed!</Entry>
+>Move Up</Entry>
+>Move Down</Entry>
+>Move Left</Entry>
+>Move Right</Entry>
+>Crouch</Entry>
+>Prone</Entry>
+>Run</Entry>
+>Jump</Entry>
+>Slow Move</Entry>
+>Fire</Entry>
+>Reload</Entry>
+>Use</Entry>
+>Examine</Entry>
+>Lean Left</Entry>
+>Lean RIght</Entry>
+>Use Item 1</Entry>
+>Use Item 2</Entry>
+>Camera</Entry>
+>Lighter</Entry>
+>Pause</Entry>
+>Inventory</Entry>
+>Press {Inventory} to open Inventory Menu.</Entry>
+>You can examine items by pressing {Examine}</Entry>
+
+>Scroll Backward Mouse Wheel to quickly deselect current holding item.</Entry>
+>Scroll Forward Mouse Wheel to select your last selected weapon.</Entry>
+>You can save your game in pause menu.</Entry>
+>Select Item/Context Menu</Entry>
+>Drag &amp; Drop</Entry>
+>Take</Entry>
+>Use</Entry>
+>Grab</Entry>
+>Drag</Entry>
+>Unlock</Entry>
+>Examine</Entry>
+>Remove</Entry>
+
+>Picked up</Entry>
+>You can't carry more backpacks!</Entry>
+>You can't take more</Entry>
+>No inventory space!</Entry>
+>Turn On</Entry>
+>Turn Off</Entry>
+>Eject</Entry>
+>Insert</Entry>
+>Play</Entry>
+>Stop</Entry>
+>Put Away</Entry>
+>Rotate</Entry>
+>Throw</Entry>
+>Read</Entry>
+>Show Cursor</Entry>
+>Inventory</Entry>
+>Use</Entry>
+>Combine</Entry>
+>Examine</Entry>
+>Drop</Entry>
+>Shortcut</Entry>
+>Store</Entry>
+>Remove</Entry>
+>is empty!</Entry>
+>Capacity {0}/{1}</Entry>
+>Items Count: {0}</Entry>
+>Exit Ladder</Entry>
+>Objectives</Entry>
+>You have new objectives, press [Inventory] to check it.</Entry>
+>Objective Pre-Completed</Entry>
+>Objective Updated</Entry>
+>Select 1, 2, 3, 4 to bind item shortcut.</Entry>
+>Select any Dpad Button to bind item shortcut.</Entry>
+>Cannot reload yet!</Entry>
+
+>Sedative Pills</Entry>
+>Sedative pills with a specific dose to reduce stress and eliminate hallucinations!</Entry>
+>Security Card</Entry>
+>Keycard which can be used to grant access to the exit door.</Entry>
+>Flashlight</Entry>
+>A flashlight is a small electric light which gets its power from batteries and which you can carry in your hand.</Entry>
+>Glock18</Entry>
+>Glock is a brand of polymer-framed, short recoil-operated, locked-breech semi-automatic pistols</Entry>
+>Long Door Key</Entry>
+>A long door key which can be used to unlock some door.</Entry>
+>Welcome to your new house Susan!</Entry>
+>The door is locked</Entry>
+>The door is locked, I need to find the key.</Entry>
+>The door is locked, I have to find another way.</Entry>
+>Lighter</Entry>
+>A device that can be used to light up dark areas.</Entry>
+>Basement Key</Entry>
+>A key which can be used to unlock the basement door.</Entry>
+>Fuse</Entry>
+>A device used to safely establish electric current</Entry>
+>Camera</Entry>
+>A small electric device used for recording visual images.</Entry>
+>Teddy</Entry>
+>A teddy bear is a stuffed toy in the form of a bear</Entry>
+>Last Checkpoint</Entry>
+
+
+>I don't paint dreams or nightmares, I paint my own reality.</Entry>
+>A GAME BY SAMAN KAZEMI</Entry>
+-Female >Damn nightmare ...</Entry>
+-Female >Hey! Who's there?!</Entry>
+-Female >Someone’s in the house! I should call the police...</Entry>
+-Female >Who's there?</Entry>
+-Female >It's too dark</Entry>
+
+-Female >Seems like the power has short circuited.
+I should use a Lighter</Entry>
+
+-Female >I need to reset the basement circuit breaker first</Entry>
+-Female >OMG! What the hell was that?!</Entry>
+-Female >I have to find a way out of this house</Entry>
+-Female >Why is the front door locked?!</Entry>
+
+-Female >it seems the power circuited affected the phone
+(I should fix it from basement)</Entry>
+
+>Basement is locked.
+-Female >I need to find the key at the laundry room</Entry>
+-Female >I think I can use the phone now</Entry>
+-Female >time to go back to your bed! what the...</Entry>
+>Where are you... ?</Entry>
+-Female >Where’d it go?!</Entry>
+>Someone called 911</Entry>
+>She claimed that somebody entered her house</Entry>
+>Number 12 you’re near the reported location</Entry>
+>The coordinates have been sent to you</Entry>
+>Can you check the position?</Entry>
+>Copy that</Entry>
+>I will go to the location and check it</Entry>
+>Thank you!</Entry>
+>I'm in Position</Entry>
+>The door is locked...</Entry>
+-Female >I don't need to enter this room right now...</Entry>
+>The door is locked!</Entry>
+>It's locked, I need to find the key...</Entry>
+>It's locked</Entry>
+
+>Call the police
+(The phone is in the TV room on the ground floor)</Entry>
+
+>The power has short circuited
+It is better to use a Lighter</Entry>
+
+>The circuit breaker has tripped
+(Reset it in the basement)</Entry>
+
+>Find the basement key in the laundry room</Entry>
+>Reset the basement circuit breaker</Entry>
+>Find and Replace the power fuses {0}/{1}</Entry>
+>Hide !</Entry>
+>Find a way out of the house</Entry>
+>Find the code and use it on tv to solve the puzzle</Entry>
+>Go back to the bedroom</Entry>
+>Find and Replace the power fuses {0}/{1}</Entry>
+>Loading ...</Entry>
+>Restart Level</Entry>
+>For using the Lighter</Entry>
+>For using the Camera</Entry>
+>To check Objectives</Entry>
+>Hide</Entry>
+>Based on a true Story</Entry>
+>This game saves data automatically at certain points
+>So you can  go the basement and reconnect the fuse again</Entry>
+>Answer the Handheld radio</Entry>
+>Find a tool to light up the environment.</Entry>
+>Examine the environment.</Entry>
+>Find the teddy bears and place them on the drawer. {0}/{1}</Entry>
+>Examine the environment.</Entry>
+>Find the code of the box.</Entry>
+>Take back the teddy bears to the child's bedroom.</Entry>
+>Find the Pills (do not forget to take the map from the table)</Entry>
+>Take back the teddy bears to the child's bedroom.</Entry>
+>Check the door at the end of the corridor.</Entry>
+>Martin?</Entry>
+>Do you copy?</Entry>
+>If you hear, please answer...</Entry>
+>Hello...</Entry>
+>Where the hell have you been?! Why don't you answer?</Entry>
+>I don't know where I am! I feel dizzy!</Entry>
+>What're you saying?</Entry>
+>The last thing I remember is being told to
+>go check on a house...</Entry>
+>What're you saying?</Entry>
+>Martin? I think...</Entry>
+>You're breaking out!</Entry>
+>... Now! ... don't...</Entry>
+>Hello?! Hello! damn it!</Entry>
+>What the hell is that music?!</Entry>
+>Where the hell am I?!</Entry>
+>It always bothers me when you're not around</Entry>
+>It took it to the basement! I'm afraid of the dark</Entry>
+>Daddy! Teddy is afraid of the dark</Entry>
+>You told me that it doesn't exist! But I saw it</Entry>
+>What the hell is going on here?!</Entry>
+>You promised me, daddy, You promised...</Entry>
+
+-Female >Hey Baby. You forgot your pills again!
+I put them on the table for you, try to eat all your pills on time. also...
+
+>It's here! Every time I check the camera, I see it!
+Not itself, but I see that it's looking for me. It's back again...</Entry>
+
+-Girl Kid >You, mommy, and me. Without no intruders!</Entry>
+>Excuse me...</Entry>
+-Female >Yes?!..</Entry>
+>Hello, madam. You called the police, right?</Entry>
+-Female >What?!</Entry>
+>Can you open the door for a moment?</Entry>
+>Hi. Sorry to bother you.</Entry>
+>My colleagues informed me that a young lady called the police from this address...</Entry>
+>And she informed us that someone had entered their house.</Entry>
+>Is there a problem?</Entry>
+-Female >No, there's no problem, Martin!</Entry>
+>So you didn't call the po...</Entry>
+>Wait! how do you know my name?!</Entry>
+>God! my head!...</Entry>
+>Who's there?!</Entry>
+>Oh My God! What the hell is that?!</Entry>
+>PUPPETRY</Entry>
+>chapter one</Entry>
+>Old Camera</Entry>
+>when turning this camera on, you see the environment from the perspective of another being that looking for you!</Entry>
+>Unknown Map</Entry>
+>A map of an unknown environment that may contain certain information.</Entry>
+>For using the Flashlight</Entry>
+>BULLET</Entry>
+>chapter two</Entry>
+>For using the Weapon</Entry>
+>Where am I ?...</Entry>
+>Damn! Not again...</Entry>
+>This corridor...</Entry>
+>It's my workplace!</Entry>
+>Hey! who's there?</Entry>
+>What the hell is going on?!</Entry>
+>Hey! What are you doing?!</Entry>
+>Wait...</Entry>
+>Hey! Ma'am?!</Entry>
+>Hello?</Entry>
+>Where did you go?!</Entry>
+>Hello?</Entry>
+>Ma'am?! I'm entering the house...</Entry>
+>I'm just letting you know that prank-calling police...</Entry>
+>Hey...</Entry>
+>What the ...</Entry>
+>I know that sound...</Entry>
+>Is anyone there ?</Entry>
+>Find a tool to light up the environment.</Entry>
+>Examine the environment.</Entry>
+>Find the door's digital code.</Entry>
+>Check out the 1989 room.</Entry>
+>Find the Pills</Entry>
+">Find and pick up the gun.</Entry>
+>Check the door at the end of the corridor.</Entry>
+
+>As I mentioned before, nothing's gonna change if you keep skipping
+taking your pills!  We had talked about this many times.
+You know very well that I don't like to try other methods...
+
+It's here! Every time I check the camera, I see it!
+Not itself, but I see that it's looking for me.
+It's back again,this time even faster than before!!!</Entry>
+
+>To reload the Weapon</Entry>
+>The Flashlights light reveals your hiding place in dark areas</Entry>
+>Locker, under some tables and dark areas are good places to hide</Entry>
+>It's better to predict the moving path of the clown to avoid him</Entry>
+>Keep your stamina to escape from the Clown!</Entry>
+>Head shots are the best way to kill enemies</Entry>
+>Hide from the Clown in the basement closet</Entry>
+>Open</Entry>
+>VERTIGO</Entry>
+>chapter three</Entry>
+>I don't feel good at all...</Entry>
+>Not again...</Entry>
+-Female >Are you calm now?</Entry>
+>I'm at peace when I sit here and listen to this music.</Entry>
+-Female >Good...Martin?</Entry>
+-Female >Do you want to do the rest of our session, tomorrow?</Entry>
+>Yes Susan, I think I'm a little tired for today...</Entry>
+-Female >Ok, no problem!</Entry>
+-Female >Martin?! Did something happen?</Entry>
+>No! It's nothing...</Entry>
+>The first time I came out of the room</Entry>
+>and faced that dark corridor, I was terrified!</Entry>
+>The second time, I was facing the same corridor,
+but I was still scared.</Entry>
+>But after the third time... I wasn't afraid anymore!</Entry>
+>It's been a long time, I'm not afraid of that dark corridor
+and all the things that happen alongside of it!</Entry>
+>You know, reliving bitter and scary memories 
+doesn't make you brave, it makes you numb!</Entry>
+>This place seems so familiar...</Entry>
+>What the hell was that!?</Entry>
+>For using the Weapon</Entry>
+>Find a tool to light up the environment.</Entry>
+>Examine the environment.</Entry>
+>Find the way out with the help of the shapes  on the cell wall.</Entry>
+>Hide from the Clown!</Entry>
+>Find a way out</Entry>
+>Find the security card to open the exit door.</Entry>
+>Use the security card to open the exit door.</Entry>
+>Check the door at the end of the corridor.</Entry>
+
+-Female >On Halloween of 1989, the wife &amp; daughter of Officer Martin Fisher, a member of the area police force,  suspiciously were murdered at their home. Martin,  who wasn't at home at that time,  claimed that he noticed a strange clown smiling at him around the house when he returned home!</Entry>
+
+-Female >Five years later ,  a young woman called the police and claimed that someone had entered her house. 
+Martin as the closest patrol officer went there to check the situation.
+After hearing the sound of gunshots from the house, the backup forces went there and found the body of a young lady at the top of the entrance stairs, who had been shot by Martin's weapon! Martin claimed after entering the house strange things happened to him,  while checking the house, a clown attacked him, and he shot that clown,
+not anyone else.</Entry>
+
+-Female >Currently, I had more than 16 psychiatric sessions with Martin, the results of which are included in his file,
+but according to my sessions with Martin, to be honest, something, in this case, has preoccupied my mind.
+What if something really happened to Martin? what if something supernatural is hidden in this case?</Entry>
+
+-Female >I don't know if what I'm trying to do is right or not. But I want to live in that house for a short time.</Entry>
+
+>Dr. Susan Hopkins
+September 1994</Entry>
+
+>NIGHTMARE</Entry>
+>chapter four</Entry>
+
+>SEPTEMBER 1994</Entry>
+>01:48 AM </Entry>
+>Basement door is locked...</Entry>
+>Find all the pills hidden in the environment before the times up out to earn more points !</Entry>
+>Destroy all red eyes mannequins before the times up to earn more points !</Entry>
+>Choose your map to challenge yourself !</Entry>
+>Pills Challenge</Entry>
+>Shot Challenge</Entry>
+
+>New Challenge
+(Coming Soon)</Entry>
+
+>For Running</Entry>
+>Choose The Difficulty</Entry>
+>Arousal (easy)</Entry>
+>Parasomnias (normal)</Entry>
+>Narcolepsy (hard)</Entry>
+
+>You have not earned any scores yet !
+(Complete one of the challenges to enter the leaderboard)</Entry>
+
+>Use the map in your inventory to locate the placement of the pills</Entry>
+
+>Bonus Chapter
+(Coming Soon)</Entry>
+
+>Set Default</Entry>
+>Game Volume</Entry>
