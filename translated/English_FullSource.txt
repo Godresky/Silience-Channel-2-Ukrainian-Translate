@@ -99,9 +99,9 @@ All saved progress will be lost</Entry>
 >Press any key</Entry>
 >Натисніть будь-яку кнопку</Entry>
 >The control binded to the "{action}" action will be removed!</Entry>
->Привʼязку на дію «{action}» буде прибрано!</Entry>
+>Прив’язку на дію «{action}» буде прибрано!</Entry>
 >There is an action that has the same control bound. Do you want to rebind the action anyway?</Entry>
->Існує дія, яка має таку ж привʼязку. Ви бажаєте всеодно привʼязати дію?</Entry>
+>Існує дія, яка має таку ж прив’язку. Ви бажаєте всеодно прив’язати дію?</Entry>
 
 >General</Entry>
 >Загальні</Entry>
@@ -170,7 +170,7 @@ All saved progress will be lost</Entry>
 >Custom</Entry>
 >Користувацькі</Entry>
 >The control binded to the "{action}" action will be removed!</Entry>
->Привʼязку на дію «{action}» буде прибрано!</Entry>
+>Прив’язку на дію «{action}» буде прибрано!</Entry>
 >Move Up</Entry>
 >Рух уперед</Entry>
 >Move Down</Entry>
@@ -194,17 +194,17 @@ All saved progress will be lost</Entry>
 >Reload</Entry>
 >Перезарядження</Entry>
 >Use</Entry>
->Використати</Entry>
+>Використання</Entry>
 >Examine</Entry>
->Дослідити</Entry>
+>Дослідження</Entry>
 >Lean Left</Entry>
 >Ухил ліворуч</Entry>
 >Lean RIght</Entry>
 >Ухил праворуч</Entry>
 >Use Item 1</Entry>
->Використати річ 1</Entry>
+>Використання речі 1</Entry>
 >Use Item 2</Entry>
->Використати річ 2</Entry>
+>Використання речі 2</Entry>
 >Camera</Entry>
 >Камера</Entry>
 >Lighter</Entry>
@@ -278,7 +278,7 @@ All saved progress will be lost</Entry>
 >Use</Entry>
 >Використати</Entry>
 >Combine</Entry>
->Обʼєднати</Entry>
+>Об’єднати</Entry>
 >Examine</Entry>
 >Дослідити</Entry>
 >Drop</Entry>
@@ -306,9 +306,9 @@ All saved progress will be lost</Entry>
 >Objective Updated</Entry>
 >Ціль оновлено</Entry>
 >Select 1, 2, 3, 4 to bind item shortcut.</Entry>
->Натисніть 1, 2, 3, 4, щоби привʼязати комірку речі.</Entry>
+>Натисніть 1, 2, 3, 4, щоби прив’язати комірку речі.</Entry>
 >Select any Dpad Button to bind item shortcut.</Entry>
->Натисніть будь-яку кнопку хрестовини, щоби привʼязати комірку речі.</Entry>
+>Натисніть будь-яку кнопку хрестовини, щоби прив’язати комірку речі.</Entry>
 >Cannot reload yet!</Entry>
 >Не можу перезарядити!</Entry>
 
@@ -359,7 +359,7 @@ All saved progress will be lost</Entry>
 >Teddy</Entry>
 >Ведмедик</Entry>
 >A teddy bear is a stuffed toy in the form of a bear</Entry>
->Мʼяка іграшка, що схожа на ведмедя.</Entry>
+>М’яка іграшка, що схожа на ведмедя.</Entry>
 >Last Checkpoint</Entry>
 >Остання контрольна точка</Entry>
 
@@ -401,7 +401,7 @@ I should use a Lighter</Entry>
 >Basement is locked.
 >Підвал замкнений.
 -Female >I need to find the key at the laundry room</Entry>
--Female >потрібно знайти ключ у пральні</Entry>
+-Female >Потрібно знайти ключ у пральні</Entry>
 -Female >I think I can use the phone now</Entry>
 -Female >Думаю, тепер я можу використати телефон</Entry>
 -Female >time to go back to your bed! what the...</Entry>
@@ -465,7 +465,7 @@ It is better to use a Lighter</Entry>
 >Find a way out of the house</Entry>
 >Знайдіть спосіб вибратися з будинку.</Entry>
 >Find the code and use it on tv to solve the puzzle</Entry>
->Знайдіть код та введіть його на телевізорі, щоби розвʼязати загадку.</Entry>
+>Знайдіть код та введіть його на телевізорі, щоби розв’язати загадку.</Entry>
 >Go back to the bedroom</Entry>
 >Поверніться до спальні</Entry>
 >Find and Replace the power fuses {0}/{1}</Entry>
@@ -487,7 +487,7 @@ It is better to use a Lighter</Entry>
 >This game saves data automatically at certain points
 >So you can  go the basement and reconnect the fuse again</Entry>
 >Гра зберігається самостійно у певних точках.
->Тому ви можете  піти до підвалу та перепідʼєднати запобіжники</Entry>
+>Тому ви можете  піти до підвалу та перепід’єднати запобіжники</Entry>
 >Answer the Handheld radio</Entry>
 >Дайте відповідь на рацію.</Entry>
 >Find a tool to light up the environment.</Entry>
@@ -524,7 +524,7 @@ It is better to use a Lighter</Entry>
 >Що ти сказав?</Entry>
 >The last thing I remember is being told to
 >go check on a house...</Entry>
->Останнє, що памʼятаю, як мені сказали
+>Останнє, що пам’ятаю, як мені сказали
 >перевірити будинок...</Entry>
 >What're you saying?</Entry>
 >Що ти сказав?</Entry>
@@ -556,7 +556,7 @@ It is better to use a Lighter</Entry>
 -Female >Hey Baby. You forgot your pills again!
 I put them on the table for you, try to eat all your pills on time. also...
 -Female >Привіт, сонце. Ти знову забув свої пігулки!
-Я залишила їх на столі, старайся приймати всі свої пігулки вчасно. Також...
+Я залишила їх на столі, старайся приймати їх усіх вчасно. Також...
 
 >It's here! Every time I check the camera, I see it!
 Not itself, but I see that it's looking for me. It's back again...</Entry>
@@ -588,7 +588,7 @@ Not itself, but I see that it's looking for me. It's back again...</Entry>
 >So you didn't call the po...</Entry>
 >Тож ви не викликали по...</Entry>
 >Wait! how do you know my name?!</Entry>
->Заждіть! Звідки ви знаєте моє імʼя?!</Entry>
+>Заждіть! Звідки ви знаєте моє ім’я?!</Entry>
 >God! my head!...</Entry>
 >Боже! Моя голова!...</Entry>
 >Who's there?!</Entry>
@@ -602,7 +602,7 @@ Not itself, but I see that it's looking for me. It's back again...</Entry>
 >Old Camera</Entry>
 >Стара камера</Entry>
 >when turning this camera on, you see the environment from the perspective of another being that looking for you!</Entry>
->Коли ви вмикаєте цю камеру, ви бачите навколишнє середовище з погляду іншої істоти, яка шукає вас!</Entry>
+>Коли ви вмикаєте цю камеру, ви бачите світ з погляду іншої істоти, яка шукає вас!</Entry>
 >Unknown Map</Entry>
 >Невідома мапа</Entry>
 >A map of an unknown environment that may contain certain information.</Entry>
@@ -656,7 +656,7 @@ Not itself, but I see that it's looking for me. It's back again...</Entry>
 >Examine the environment.</Entry>
 >Дослідіть довкілля.</Entry>
 >Find the door's digital code.</Entry>
->Знайди цифровий код від дверей.</Entry>
+>Знайдіть цифровий код від дверей.</Entry>
 >Check out the 1989 room.</Entry>
 >Перевірте кімнату 1989.</Entry>
 >Find the Pills</Entry>
@@ -733,11 +733,11 @@ but I was still scared.</Entry>
 >Але втретє... Я вже не боявся!</Entry>
 >It's been a long time, I'm not afraid of that dark corridor
 and all the things that happen alongside of it!</Entry>
->Минуло багато часу, і вже я не боюся цього темного коридору
-та всього, що відбувається в ньому!</Entry>
+>Минуло багато часу, і мене більше не лякає цей темний коридор
+та все, що відбувається в ньому!</Entry>
 >You know, reliving bitter and scary memories 
 doesn't make you brave, it makes you numb!</Entry>
->Знаєш, переживання гірких і лячних спогадів 
+>Знаєш, переживання гірких і страшних спогадів 
 не робить тебе хоробрим, воно робить заціпенілим!</Entry>
 >This place seems so familiar...</Entry>
 >Це місце так знайоме...</Entry>
@@ -769,7 +769,7 @@ doesn't make you brave, it makes you numb!</Entry>
 Martin as the closest patrol officer went there to check the situation.
 After hearing the sound of gunshots from the house, the backup forces went there and found the body of a young lady at the top of the entrance stairs, who had been shot by Martin's weapon! Martin claimed after entering the house strange things happened to him,  while checking the house, a clown attacked him, and he shot that clown,
 not anyone else.</Entry>
--Female >Пʼять років по тому ,  дівчина викликала поліцію та заявила, що хтось проліз у її дім. 
+-Female >П’ять років по тому ,  дівчина викликала поліцію та заявила, що хтось проліз у її дім. 
 Мартін, як найближчий патрульний, вирушив перевірити ситуацію.
 Після звуків пострілів, що лунали з будинку, прибули додаткові сили  та застали покійну молоду пані на вершині вхідних сходів, яка була вбита зі зброї Мартіна! Сам ж Мартін стверджував, що коли увійшов до оселі, то з ним відбувалися дивні речі,  а під час перевірки помешкання на нього напав клоун, якого він застрелив
 і більше нікого.</Entry>
@@ -778,7 +778,7 @@ not anyone else.</Entry>
 but according to my sessions with Martin, to be honest, something, in this case, has preoccupied my mind.
 What if something really happened to Martin? what if something supernatural is hidden in this case?</Entry>
 -Female >Наразі, я провела 16 психіатричних сеансів з Мартіном, результати яких включені у його справу,
-але, чесно кажучи, під час моїх сеансів з Мартіном, дещо, в цьому випадку, зацікавило мене.
+але, чесно кажучи, під час моїх сеансів з ним, дещо, в цьому випадку, зацікавило мене.
 Що, якщо з Мартіном дійсно щось сталося? Що, якщо в цій справі приховано щось надприродне?</Entry>
 
 -Female >I don't know if what I'm trying to do is right or not. But I want to live in that house for a short time.</Entry>
@@ -790,7 +790,7 @@ September 1994</Entry>
 Вересень 1994</Entry>
 
 >NIGHTMARE</Entry>
->ЖАХІТТЯ</Entry>
+>КОШМАР</Entry>
 >chapter four</Entry>
 >розділ четвертий</Entry>
 
