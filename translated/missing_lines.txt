@@ -1,0 +1,44 @@
+>Turn off all the lights for better experience !</Entry>
+>Вимкніть усе світло для ліпшого досвіду !</Entry>
+>Double Click on {}</Entry>
+>Подвійний клац на {}</Entry>
+>Saving</Entry>
+>Збереження</Entry>
+>Your Score:</Entry>
+>Ваш рахунок:</Entry>
+>Best Score:</Entry>
+>Найбільший рахунок:</Entry>
+>Score:</Entry>
+>Рахунок:</Entry>
+>Global rank:</Entry>
+>Світовий ранг:</Entry>
+>Top Players</Entry>
+>Найліпші гравці</Entry>
+>Top Players Scores</Entry>
+>Найвищі рахунки</Entry>
+>Найвищі рахунки</Entry>
+>Loading
+Please wait</Entry>
+>Завантаження
+Просимо, зачекайте</Entry>
+>Game / Level Designer</Entry>
+>Дизайнер гри/рівнів</Entry>
+>Programmers</Entry>
+>Програмісти</Entry>
+>Voice Actors</Entry>
+>Актори озвучення</Entry>
+>3D Artists</Entry>
+>3D-художники</Entry>
+>Translators</Entry>
+>Перекладачі</Entry>
+>Music</Entry>
+>Музика</Entry>
+>Special Thanks</Entry>
+>Особлива подяка</Entry>
+>Mouse & Keyboard</Entry>
+>Мишка та клавіатура</Entry>
+
+>01:10 AM</Entry>
+>01:10 AM</Entry>
+>Find the first secret clock</Entry>
+>Знайдіть перший таємний годинник</Entry>
