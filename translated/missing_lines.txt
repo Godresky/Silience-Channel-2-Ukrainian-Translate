@@ -1,5 +1,5 @@
 >Turn off all the lights for better experience !</Entry>
->Вимкніть усе світло для ліпшого досвіду !</Entry>
+>Вимкніть усе світло для кращого досвіду !</Entry>
 >Double Click on {}</Entry>
 >Подвійний клац на {}</Entry>
 >Saving</Entry>
@@ -15,8 +15,7 @@
 >Top Players</Entry>
 >Найліпші гравці</Entry>
 >Top Players Scores</Entry>
->Найвищі рахунки</Entry>
->Найвищі рахунки</Entry>
+>Найбільший рахунок гравців</Entry>
 >Loading
 Please wait</Entry>
 >Завантаження
@@ -38,7 +37,124 @@ Please wait</Entry>
 >Mouse & Keyboard</Entry>
 >Мишка та клавіатура</Entry>
 
+--- Achievements ---
 >01:10 AM</Entry>
 >01:10 AM</Entry>
 >Find the first secret clock</Entry>
 >Знайдіть перший таємний годинник</Entry>
+>01:48 AM</Entry>
+>01:48 AM</Entry>
+>Find the second secret clock</Entry>
+>Знайдіть другий таємний годинник</Entry>
+>02:21 AM</Entry>
+>02:21 AM</Entry>
+>Find the third secret clock</Entry>
+>Знайдіть третій таємний годинник</Entry>
+>02:48 AM</Entry>
+>02:48 AM</Entry>
+>Find the 4th secret clock</Entry>
+>Знайдіть четвертий таємний годинник</Entry>
+>03:04 AM</Entry>
+>03:04 AM</Entry>
+>Find the 5th secret clock</Entry>
+>Знайдіть п’ятий таємний годинник</Entry>
+>03:17 AM</Entry>
+>03:17 AM</Entry>
+>Find the 6th secret clock</Entry>
+>Знайдіть шостий таємний годинник</Entry>
+>03:52 AM</Entry>
+>03:52 AM</Entry>
+>Find the 7th secret clock</Entry>
+>Знайдіть сьомий таємний годинник</Entry>
+>04:00 AM</Entry>
+>04:00 AM</Entry>
+>Find the 8th secret clock</Entry>
+>Знайдіть восьмий таємний годинник</Entry>
+>04:13 AM</Entry>
+>04:13 AM</Entry>
+>Find the 9th secret clock</Entry>
+>Знайдіть дев’тий таємний годинник</Entry>
+>04:23 AM</Entry>
+>04:23 AM</Entry>
+>Find the 10th secret clock</Entry>
+>Знайдіть десятий таємний годинник</Entry>
+>04:42 AM</Entry>
+>04:42 AM</Entry>
+>Find the 11th secret clock</Entry>
+>Знайдіть одинадцятий таємний годинник</Entry>
+>04:59 AM</Entry>
+>04:59 AM</Entry>
+>Find the 12th secret clock</Entry>
+>Знайдіть дванадцятий таємний годинник</Entry>
+>05:11 AM</Entry>
+>05:11 AM</Entry>
+>Find the 13th secret clock</Entry>
+>Знайдіть тринадцятий таємний годинник</Entry>
+>05:27 AM</Entry>
+>05:27 AM</Entry>
+>Find the 14th secret clock</Entry>
+>Знайдіть чотирнадцятий таємний годинник</Entry>
+>05:34 AM</Entry>
+>05:34 AM</Entry>
+>Find the 15th secret clock</Entry>
+>Знайдіть п’ятнадцятий таємний годинник</Entry>
+>06:18 AM</Entry>
+>06:18 AM</Entry>
+>Find the 16th secret clock</Entry>
+>Знайдіть шістнадцятий таємний годинник</Entry>
+>06:45 AM</Entry>
+>06:45 AM</Entry>
+>Find the 17th secret clock</Entry>
+>Знайдіть сімнадцятий таємний годинник</Entry>
+>00:00 AM</Entry>
+>00:00 AM</Entry>
+>Find the 18th secret clock</Entry>
+>Знайдіть вісімнадцятий таємний годинник</Entry>
+>Basement</Entry>
+>Підвал</Entry>
+>Open the basement</Entry>
+>Відчиніть підвал</Entry>
+>Teddy</Entry>
+>Ведмедик</Entry>
+>Find the missing teddy</Entry>
+>Знайдіть загубленого ведмедика</Entry>
+>Glock</Entry>
+>Ґлок</Entry>
+>Pick up the weapon</Entry>
+>Підберіть зброю</Entry>
+>Security Card</Entry>
+>Перепустка</Entry>
+>Find the exit card</Entry>
+>Знайдіть перепустку для виходу</Entry>
+>Nightmare</Entry>
+>Кошмар</Entry>
+>Complete the prologue chapter like a pro player</Entry>
+>Завершіть пролог з найвищою складністю</Entry>
+>Puppetry</Entry>
+>Ляльковий театр</Entry>
+>Complete the chapter one like a pro player</Entry>
+>Завершіть розділ перший з найвищою складністю</Entry>
+>Bullet</Entry>
+>Куля</Entry>
+>Complete the chapter two like a pro player</Entry>
+>Завершіть розділ другий з найвищою складністю</Entry>
+>Vertigo</Entry>
+>Запаморочення</Entry>
+>Complete the chapter three like a pro player</Entry>
+>Завершіть розділ третій з найвищою складністю</Entry>
+>Paper One</Entry>
+>Перший лист</Entry>
+>Find the first letter</Entry>
+>Знайдіть перший лист</Entry>
+>Paper Two</Entry>
+>Другий лист</Entry>
+>Find the second letter</Entry>
+>Знайдіть другий лист</Entry>
+>Paper Three</Entry>
+>Третій лист</Entry>
+>Find the third letter</Entry>
+>Знайдіть третій лист</Entry>
+>Escape</Entry>
+>Утеча</Entry>
+>Complete the storyline</Entry>
+>Завершіть історію</Entry>
