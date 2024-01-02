@@ -28,651 +28,336 @@ the sentence is spoken by the female gender and the rest will be said by the mal
 
 ---------------- Thanks ---------------------
 
->Continue</Entry>
+
 >Продовжити</Entry>
->Return</Entry>
 >Назад</Entry>
->New Game</Entry>
 >Нова гра</Entry>
->Extras</Entry>
 >Додаткове</Entry>
->Chapters</Entry>
 >Розділи</Entry>
->Prologue</Entry>
 >Пролог</Entry>
->Chapter One</Entry>
 >Розділ перший</Entry>
->Chapter Two</Entry>
 >Розділ другий</Entry>
->Chapter Three</Entry>
 >Розділ третій</Entry>
->You have to complete the story first</Entry>
 >Спершу ви повинні завершити історію</Entry>
->Load Game</Entry>
 >Завантажити</Entry>
->Save Game</Entry>
 >Зберегти</Entry>
->Settings</Entry>
 >Налаштування</Entry>
->Main Menu</Entry>
 >Головне меню</Entry>
->Quit</Entry>
 >Вийти</Entry>
->Retry</Entry>
 >Ще раз</Entry>
->Yes</Entry>
 >Так</Entry>
->Cancel</Entry>
 >Скасувати</Entry>
->OK</Entry>
 >Гаразд</Entry>
->No</Entry>
 >Ні</Entry>
->Back</Entry>
 >Назад</Entry>
->Delete</Entry>
 >Видалити</Entry>
->Load</Entry>
 >Завантажити</Entry>
->Apply</Entry>
 >Прийняти</Entry>
->Select</Entry>
 >Вибрати</Entry>
->Move</Entry>
 >Рухатися</Entry>
 
->Are you sure?
-All saved progress will be lost</Entry>
 >Ви впевнені?
 Увесь збережений поступ буде втрачено</Entry>
 
->Paused</Entry>
 >Призупинено</Entry>
->EXAMPLES</Entry>
 >ПРИКЛАДИ</Entry>
->THERE ARE NO SAVED GAME</Entry>
 >У ВАС НЕМАЄ ЗБЕРЕЖЕНЬ</Entry>
->Your heart stopped beating</Entry>
 >Ваше серце перестало битися</Entry>
->Are you sure?</Entry>
 >Ви впевнені?</Entry>
->Press any key</Entry>
 >Натисніть будь-яку кнопку</Entry>
->The control binded to the "{action}" action will be removed!</Entry>
 >Прив’язку на дію «{action}» буде прибрано!</Entry>
->There is an action that has the same control bound. Do you want to rebind the action anyway?</Entry>
 >Існує дія, яка має таку ж прив’язку. Ви бажаєте всеодно прив’язати дію?</Entry>
 
->General</Entry>
 >Загальні</Entry>
->Graphic</Entry>
 >Графіка</Entry>
->Controls</Entry>
 >Керування</Entry>
->Credits</Entry>
 >Творці</Entry>
->Subtitle Language</Entry>
 >Мова субтитрів</Entry>
->Controller</Entry>
->Керування</Entry> #вибір чи мишкою з клавою, чи контроллером
->Brightness</Entry>
+>Керування</Entry>
 >Яcкравість</Entry>
->Vertical Look Sensitivity</Entry>
 >Чутливість вертикального огляду</Entry>
->Horizontal Look Sensitivity</Entry>
 >Чутливість горизонтального огляду</Entry>
->Mouse Sensitivity</Entry>
 >Чутливість мишки</Entry>
->Invert Vertical Look</Entry>
 >Інвертувати вертикальний огляд</Entry>
->Bloom</Entry>
 >Світіння</Entry>
->Film Grain</Entry>
 >Зернистість</Entry>
->Motion Blur</Entry>
 >Розмиття в русі</Entry>
->Ambient Occlusion</Entry>
 >Затінення оточення</Entry>
->Resolution</Entry>
 >Роздільність</Entry>
->Screen Mode</Entry>
 >Режим показу</Entry>
->Game Quality</Entry>
 >Загальна якість</Entry>
->Antialiasing</Entry>
 >Згладжування</Entry>
->Texture Quality</Entry>
 >Якість текстур</Entry>
->Shadow Quality</Entry>
 >Якість тіней</Entry>
->Shadow Distance</Entry>
 >Тіньова відстань</Entry>
->Vertical Sync</Entry>
 >Вертикальна синхр.</Entry>
->ENABLED</Entry>
 >УВІМКНЕНО</Entry>
->DISABLED</Entry>
 >ВИМКНЕНО</Entry>
->Fullscreen</Entry>
->На весь екран</Entry>
->Fullscreen Windowed</Entry>
->Вікно на весь екран</Entry>
->Windowed</Entry>
+>Повноекранний</Entry>
+>Повноекранний у вікні</Entry>
 >У вікні</Entry>
->Low</Entry>
 >Низькі</Entry>
->Medium</Entry>
 >Середні</Entry>
->High</Entry>
 >Високі</Entry>
->Ultra</Entry>
 >Надвисокі</Entry>
->Custom</Entry>
 >Користувацькі</Entry>
->The control binded to the "{action}" action will be removed!</Entry>
 >Прив’язку на дію «{action}» буде прибрано!</Entry>
->Move Up</Entry>
 >Рух уперед</Entry>
->Move Down</Entry>
 >Рух назад</Entry>
->Move Left</Entry>
 >Рух ліворуч</Entry>
->Move Right</Entry>
 >Рух праворуч</Entry>
->Crouch</Entry>
 >Навпочіпки</Entry>
->Prone</Entry>
 >Долілиць</Entry>
->Run</Entry>
 >Біг</Entry>
->Jump</Entry>
 >Стрибок</Entry>
->Slow Move</Entry>
 >Повільний крок</Entry>
->Fire</Entry>
 >Вогонь</Entry>
->Reload</Entry>
 >Перезарядження</Entry>
->Use</Entry>
 >Використання</Entry>
->Examine</Entry>
 >Дослідження</Entry>
->Lean Left</Entry>
 >Ухил ліворуч</Entry>
->Lean RIght</Entry>
 >Ухил праворуч</Entry>
->Use Item 1</Entry>
 >Використання речі 1</Entry>
->Use Item 2</Entry>
 >Використання речі 2</Entry>
->Camera</Entry>
 >Камера</Entry>
->Lighter</Entry>
 >Запальничка</Entry>
->Pause</Entry>
 >Призупинити</Entry>
->Inventory</Entry>
 >Спорядження</Entry>
->Press {Inventory} to open Inventory Menu.</Entry>
 >Натисніть {Inventory}, щоби відкрити меню спорядження.</Entry>
->You can examine items by pressing {Examine}</Entry>
 >Ви можете досліджувати речі, натиснувши {Examine}</Entry>
 
->Scroll Backward Mouse Wheel to quickly deselect current holding item.</Entry>
 >Покрутіть колесико мишки назад, щоби сховати вибрану річ.</Entry>
->Scroll Forward Mouse Wheel to select your last selected weapon.</Entry>
 >Прокрутіть колесико мишки вперед, щоби дістати останню вибрану зброю.</Entry>
->You can save your game in pause menu.</Entry>
 >Ви можете зберегти гру в меню павзи.</Entry>
->Select Item/Context Menu</Entry>
 >Вибрати річ/Контекстне меню</Entry>
->Drag &amp; Drop</Entry>
 >Перетягнути</Entry>
->Take</Entry>
 >Взяти</Entry>
->Use</Entry>
 >Використати</Entry>
->Grab</Entry>
 >Схопити</Entry>
->Drag</Entry>
 >Тягнути</Entry>
->Unlock</Entry>
 >Відімкнути</Entry>
->Examine</Entry>
 >Дослідити</Entry>
->Remove</Entry>
 >Прибрати</Entry>
 
->Picked up</Entry>
 >Підібрано</Entry>
->You can't carry more backpacks!</Entry>
 >Більше наплічників нести не можна!</Entry>
->You can't take more</Entry>
 >Ви не можете взяти більше</Entry>
->No inventory space!</Entry>
 >Немає місця!</Entry>
->Turn On</Entry>
 >Увімкнути</Entry>
->Turn Off</Entry>
 >Вимкнути</Entry>
->Eject</Entry>
 >Викинути</Entry>
->Insert</Entry>
 >Вставити</Entry>
->Play</Entry>
 >Програти</Entry>
->Stop</Entry>
 >Зупинити</Entry>
->Put Away</Entry>
 >Відкласти</Entry>
->Rotate</Entry>
 >Обертати</Entry>
->Throw</Entry>
 >Кинути</Entry>
->Read</Entry>
 >Читати</Entry>
->Show Cursor</Entry>
 >Показати курсор</Entry>
->Inventory</Entry>
 >Спорядження</Entry>
->Use</Entry>
 >Використати</Entry>
->Combine</Entry>
 >Об’єднати</Entry>
->Examine</Entry>
 >Дослідити</Entry>
->Drop</Entry>
 >Викинути</Entry>
->Shortcut</Entry>
 >Комірка</Entry>
->Store</Entry>
 >Зберегти</Entry>
->Remove</Entry>
 >Прибрати</Entry>
->is empty!</Entry>
 >- порожньо!</Entry>
->Capacity {0}/{1}</Entry>
 >Місткість {0}/{1}</Entry>
->Items Count: {0}</Entry>
 >К-сть речей: {0}</Entry>
->Exit Ladder</Entry>
 >Драбина на вихід</Entry>
->Objectives</Entry>
 >Цілі</Entry>
->You have new objectives, press [Inventory] to check it.</Entry>
 >Ви маєте нові цілі, натисніть [Inventory], щоби перевірити.</Entry>
->Objective Pre-Completed</Entry>
 >Ціль попередньо виконано</Entry>
->Objective Updated</Entry>
 >Ціль оновлено</Entry>
->Select 1, 2, 3, 4 to bind item shortcut.</Entry>
 >Натисніть 1, 2, 3, 4, щоби прив’язати комірку речі.</Entry>
->Select any Dpad Button to bind item shortcut.</Entry>
 >Натисніть будь-яку кнопку хрестовини, щоби прив’язати комірку речі.</Entry>
->Cannot reload yet!</Entry>
 >Не можу перезарядити!</Entry>
 
->Sedative Pills</Entry>
 >Заспокійливі пігулки</Entry>
->Sedative pills with a specific dose to reduce stress and eliminate hallucinations!</Entry>
 >Заспокійливе певної дози для зменшення стресу та усунення марень!</Entry>
->Security Card</Entry>
 >Перепустка</Entry>
->Keycard which can be used to grant access to the exit door.</Entry>
 >Ключ-картка, яку можна використати для доступ до виходу.</Entry>
->Flashlight</Entry>
 >Ліхтарик</Entry>
->A flashlight is a small electric light which gets its power from batteries and which you can carry in your hand.</Entry>
 >Ліхтарик - це маленький електричний ліхтар, що працює на батарейках та який можна нести в руках.</Entry>
->Glock18</Entry>
->Ґлок 18</Entry>
->Glock is a brand of polymer-framed, short recoil-operated, locked-breech semi-automatic pistols</Entry>
->Ґлок - це марка самозарядних пістолетів з полімерною рамкою, з короткою віддачею, із замкнутим затвором.</Entry>
->Long Door Key</Entry>
+>Glock 18</Entry>
+>Glock 18 - це марка самозарядних пістолетів з полімерною рамкою, з короткою віддачею, із замкнутим затвором.</Entry>
 >Довгий ключ</Entry>
->A long door key which can be used to unlock some door.</Entry>
 >Довгий ключ, яким можна відімкнути певні двері.</Entry>
->Welcome to your new house Susan!</Entry>
 >Ласкаво просимо у новий дім, Сюзано!</Entry>
->The door is locked</Entry>
 >Двері замкнено</Entry>
->The door is locked, I need to find the key.</Entry>
 >Двері замкнено, треба знайти ключ.</Entry>
->The door is locked, I have to find another way.</Entry>
 >Двері замкнено, варто знайти інший шлях.</Entry>
->Lighter</Entry>
 >Запальничка</Entry>
->A device that can be used to light up dark areas.</Entry>
 >Пристрій, який дозволяє освітити темні закутки.</Entry>
->Basement Key</Entry>
 >Ключ від підвалу</Entry>
->A key which can be used to unlock the basement door.</Entry>
 >Ключ, яким можна відімкнути двері у підвал.</Entry>
->Fuse</Entry>
 >Запобіжник</Entry>
->A device used to safely establish electric current</Entry>
 >Прилад, який використовується для убезпечення електромережі.</Entry>
->Camera</Entry>
 >Камера</Entry>
->A small electric device used for recording visual images.</Entry>
 >Маленький електропристрій для запису візуальної інформації.</Entry>
->Teddy</Entry>
 >Ведмедик</Entry>
->A teddy bear is a stuffed toy in the form of a bear</Entry>
 >М’яка іграшка, що схожа на ведмедя.</Entry>
->Last Checkpoint</Entry>
 >Остання контрольна точка</Entry>
 
 
->I don't paint dreams or nightmares, I paint my own reality.</Entry>
->Я не пишу мрії або кошмари. Я пишу власну дійсність.</Entry>
->A GAME BY SAMAN KAZEMI</Entry>
->ГРА САМАНА КАЗЕМІ</Entry>
--Female >Damn nightmare ...</Entry>
--Female >Трясця, кошмар ...</Entry>
--Female >Hey! Who's there?!</Entry>
+>Я не пишу мрії або жахіття. Я пишу власну дійсність.</Entry>
+>ГРА САМАНА ЧАЗЕМІ</Entry>
+-Female >Трясця, жахіття ...</Entry>
 -Female >Агов! Хто тут?!</Entry>
--Female >Someone’s in the house! I should call the police...</Entry>
 -Female >Хтось у домі! Треба викликати поліцію...</Entry>
--Female >Who's there?</Entry>
 -Female >Хто тут?</Entry>
--Female >It's too dark</Entry>
 -Female >Надто темно</Entry>
 
--Female >Seems like the power has short circuited.
-I should use a Lighter</Entry>
 -Female >Схоже, сталося коротке замикання.
 Варто використати запальничку</Entry>
 
--Female >I need to reset the basement circuit breaker first</Entry>
 -Female >Спершу треба перезапустити переривник у підвалі</Entry>
--Female >OMG! What the hell was that?!</Entry>
 -Female >БОЖЕ! Що за хрінь?!</Entry>
--Female >I have to find a way out of this house</Entry>
 -Female >Треба вибиратися із цього будинку</Entry>
--Female >Why is the front door locked?!</Entry>
 -Female >Чому вхідні двері замкнуті?!</Entry>
 
--Female >it seems the power circuited affected the phone
-(I should fix it from basement)</Entry>
 -Female >Схоже, коротке замикання вплинуло на телефон
 (Слід полагодити це у підвалі)</Entry>
 
->Basement is locked.
 >Підвал замкнений.
--Female >I need to find the key at the laundry room</Entry>
 -Female >Потрібно знайти ключ у пральні</Entry>
--Female >I think I can use the phone now</Entry>
 -Female >Думаю, тепер я можу використати телефон</Entry>
--Female >time to go back to your bed! what the...</Entry>
 -Female >Час повернутися до свого ліжка! Якого...</Entry>
->Where are you... ?</Entry>
 >Де ти є... ?</Entry>
--Female >Where’d it go?!</Entry>
 -Female >Куди він подівся?!</Entry>
->Someone called 911</Entry>
 >Хтось викликав 911</Entry>
->She claimed that somebody entered her house</Entry>
 >Вона стверджує, що невідомий проліз у її будинок</Entry>
->Number 12 you’re near the reported location</Entry>
->Номеру 12, ти близько до вказаного місця</Entry>
->The coordinates have been sent to you</Entry>
+>Номере 12, ти близько до вказаного місця</Entry>
 >Надсилаю тобі координати</Entry>
->Can you check the position?</Entry>
 >Можеш оглянути розташування?</Entry>
->Copy that</Entry>
 >Прийнято</Entry>
->I will go to the location and check it</Entry>
 >Відправляюся туди та огляну все</Entry>
->Thank you!</Entry>
 >Дякую!</Entry>
->I'm in Position</Entry>
 >Я на місці</Entry>
->The door is locked...</Entry>
 >Двері замкнено...</Entry>
--Female >I don't need to enter this room right now...</Entry>
 -Female >Наразі мені не потрібно сюди...</Entry>
->The door is locked!</Entry>
 >Двері замкнено!</Entry>
->It's locked, I need to find the key...</Entry>
 >Це замкнено, мені потрібен ключ...</Entry>
->It's locked</Entry>
 >Це замкнено</Entry>
 
->Call the police
-(The phone is in the TV room on the ground floor)</Entry>
->Викличіть поліцію
+>Викличте поліцію
 (Телефон на першому поверсі у вітальні)</Entry>
 
->The power has short circuited
-It is better to use a Lighter</Entry>
 >Сталося коротке замикання
 Краще використати запальничку</Entry>
 
->The circuit breaker has tripped
-(Reset it in the basement)</Entry>
 >Спрацював переривник
 (Перезапустіть його у підвалі)</Entry>
 
->Find the basement key in the laundry room</Entry>
 >Знайдіть ключі від підвалу у пральні.</Entry>
->Reset the basement circuit breaker</Entry>
 >Перезапустіть переривник у підвалі.</Entry>
->Find and Replace the power fuses {0}/{1}</Entry>
 >Знайдіть та замініть запобіжники {0}/{1}.</Entry>
->Hide !</Entry>
 >Ховайтеся!</Entry>
->Find a way out of the house</Entry>
 >Знайдіть спосіб вибратися з будинку.</Entry>
->Find the code and use it on tv to solve the puzzle</Entry>
 >Знайдіть код та введіть його на телевізорі, щоби розв’язати загадку.</Entry>
->Go back to the bedroom</Entry>
 >Поверніться до спальні</Entry>
->Find and Replace the power fuses {0}/{1}</Entry>
 >Знайдіть та замініть запобіжники {0}/{1}.</Entry>
->Loading ...</Entry>
 >Завантаження ...</Entry>
->Restart Level</Entry>
 >Ще раз</Entry>
->For using the Lighter</Entry>
 >, щоби використати запальничку</Entry>
->For using the Camera</Entry>
 >, щоби дістати камеру</Entry>
->To check Objectives</Entry>
 >, щоби перевірити цілі</Entry>
->Hide</Entry>
 >Сховатися</Entry>
->Based on a true Story</Entry>
 >Засновано на реальних подіях</Entry>
->This game saves data automatically at certain points
->So you can  go the basement and reconnect the fuse again</Entry>
 >Гра зберігається самостійно у певних точках.
->Тому ви можете  піти до підвалу та перепід’єднати запобіжники</Entry>
->Answer the Handheld radio</Entry>
->Дайте відповідь на рацію.</Entry>
->Find a tool to light up the environment.</Entry>
+>Тому ви можете піти до підвалу та перепід’єднати запобіжники</Entry>
+>Дайте відповідь по рації.</Entry>
 >Знайдіть, чим освітити довкілля.</Entry>
->Examine the environment.</Entry>
 >Дослідіть довкілля.</Entry>
->Find the teddy bears and place them on the drawer. {0}/{1}</Entry>
 >Знайдіть ведмедиків та поставте їх на комод. {0}/{1}</Entry>
->Examine the environment.</Entry>
 >Дослідіть довкілля.</Entry>
->Find the code of the box.</Entry>
 >Знайдіть код від скриньки.</Entry>
->Take back the teddy bears to the child's bedroom.</Entry>
 >Поверніть ведмедика в дитячу спальню.</Entry>
->Find the Pills (do not forget to take the map from the table)</Entry>
 >Знайдіть пігулки (не забудьте взяти мапу зі столу).</Entry>
->Take back the teddy bears to the child's bedroom.</Entry>
 >Поверніть ведмедика в дитячу спальню.</Entry>
->Check the door at the end of the corridor.</Entry>
 >Перевірте двері у кінці коридору.</Entry>
->Martin?</Entry>
 >Мартіне?</Entry>
->Do you copy?</Entry>
 >Ти мене чуєш?</Entry>
->If you hear, please answer...</Entry>
 >Якщо так, дай відповідь...</Entry>
->Hello...</Entry>
 >Агов...</Entry>
->Where the hell have you been?! Why don't you answer?</Entry>
 >Де ти в дідька був?! Чому не відповідав?</Entry>
->I don't know where I am! I feel dizzy!</Entry>
 >Я не знаю, де я є! Мене дурманить!</Entry>
->What're you saying?</Entry>
 >Що ти сказав?</Entry>
->The last thing I remember is being told to
->go check on a house...</Entry>
 >Останнє, що пам’ятаю, як мені сказали
 >перевірити будинок...</Entry>
->What're you saying?</Entry>
 >Що ти сказав?</Entry>
->Martin? I think...</Entry>
 >Мартіне? Я гадаю...</Entry>
->You're breaking out!</Entry>
 >Тебе перебиває!</Entry>
->... Now! ... don't...</Entry>
 >... Зараз! ... не...</Entry>
->Hello?! Hello! damn it!</Entry>
 >Гей?! Агов! Лайно!</Entry>
->What the hell is that music?!</Entry>
 >Що це, бляха, за музика?!</Entry>
->Where the hell am I?!</Entry>
->Де я в сраку є?!</Entry>
->It always bothers me when you're not around</Entry>
+>Де це мене, нахрін, чорти занесли?!</Entry>
 >Мене завжди турбує, коли тебе немає поруч</Entry>
->It took it to the basement! I'm afraid of the dark</Entry>
 >Воно забрало його у підвал! Я боюся темряви</Entry>
->Daddy! Teddy is afraid of the dark</Entry>
 >Татку! Ведмедик боїться темряви</Entry>
->You told me that it doesn't exist! But I saw it</Entry>
 >Ти сказав, що його не існує! Але я бачила</Entry>
->What the hell is going on here?!</Entry>
->Що за хрінь тут відбувається?!</Entry>
->You promised me, daddy, You promised...</Entry>
+>Що за чортівня тут відбувається?!</Entry>
 >Ти обіцяв мені, татусю, ти обіцяв...</Entry>
 
--Female >Hey Baby. You forgot your pills again!
-I put them on the table for you, try to eat all your pills on time. also...
 -Female >Привіт, сонце. Ти знову забув свої пігулки!
 Я залишила їх на столі, старайся приймати їх усіх вчасно. Також...
 
->It's here! Every time I check the camera, I see it!
-Not itself, but I see that it's looking for me. It's back again...</Entry>
 >Воно тут! Щоразу, як я перевіряв камеру, бачив його!
 Не його самого, та знаю, що воно шукає мене. Воно повернеться...</Entry>
 
--Girl Kid >You, mommy, and me. Without no intruders!</Entry>
--Girl Kid >Ти, матінка і я. Без жодних непроханців!</Entry>
->Excuse me...</Entry>
+-Girl Kid >Ти, мамуся і я. Без жодних непроханих!</Entry>
 >Пробачте...</Entry>
--Female >Yes?!..</Entry>
 -Female >Так?!..</Entry>
->Hello, madam. You called the police, right?</Entry>
 >Вітаю, пані. Ви викликали поліцію, так?</Entry>
--Female >What?!</Entry>
 -Female >Що?!</Entry>
->Can you open the door for a moment?</Entry>
 >Можете відчинити двері на хвильку?</Entry>
->Hi. Sorry to bother you.</Entry>
 >Вітаю. Вибачте, що турбую.</Entry>
->My colleagues informed me that a young lady called the police from this address...</Entry>
 >Мої колеги повідомили, що молода пані викликала поліцію на цю адресу...</Entry>
->And she informed us that someone had entered their house.</Entry>
 >І вона сповістила, що невідомий проліз у її будинок.</Entry>
->Is there a problem?</Entry>
 >Жодних проблем?</Entry>
--Female >No, there's no problem, Martin!</Entry>
 -Female >Ні, жодних проблем, Мартіне!</Entry>
->So you didn't call the po...</Entry>
 >Тож ви не викликали по...</Entry>
->Wait! how do you know my name?!</Entry>
 >Заждіть! Звідки ви знаєте моє ім’я?!</Entry>
->God! my head!...</Entry>
 >Боже! Моя голова!...</Entry>
->Who's there?!</Entry>
 >Хто тут?!</Entry>
->Oh My God! What the hell is that?!</Entry>
->Боже мій! Що за прутня тут коїться?!</Entry>
->PUPPETRY</Entry>
+>Господи! Що за кошмар тут коїться?!</Entry>
 >ТЕАТР ЛЯЛЬОК</Entry>
->chapter one</Entry>
 >розділ перший</Entry>
->Old Camera</Entry>
 >Стара камера</Entry>
->when turning this camera on, you see the environment from the perspective of another being that looking for you!</Entry>
 >Коли ви вмикаєте цю камеру, ви бачите світ з погляду іншої істоти, яка шукає вас!</Entry>
->Unknown Map</Entry>
 >Невідома мапа</Entry>
->A map of an unknown environment that may contain certain information.</Entry>
 >Мапа незрозумілого приміщення, яка може містити певні відомості.</Entry>
->For using the Flashlight</Entry>
 >, щоб увімкнути ліхтарик</Entry>
->BULLET</Entry>
 >КУЛЯ</Entry>
->chapter two</Entry>
 >розділ другий</Entry>
->For using the Weapon</Entry>
 >, щоби використати зброю</Entry>
->Where am I ?...</Entry>
 >Де я?...</Entry>
->Damn! Not again...</Entry>
 >Лайно! Тільки не знову...</Entry>
->This corridor...</Entry>
 >Цей коридор...</Entry>
->It's my workplace!</Entry>
 >Це ж моє робоче місце!</Entry>
->Hey! who's there?</Entry>
 >Гей! Хто тут?</Entry>
->What the hell is going on?!</Entry>
 >Що за хрінь тут відбувається?!</Entry>
->Hey! What are you doing?!</Entry>
 >Агей! Що ти робиш?!</Entry>
->Wait...</Entry>
 >Стій...</Entry>
->Hey! Ma'am?!</Entry>
 >Гей! Пані?!</Entry>
->Hello?</Entry>
 >Агов?</Entry>
->Where did you go?!</Entry>
 >Куди ви пішли?!</Entry>
->Hello?</Entry>
 >Агов?</Entry>
->Ma'am?! I'm entering the house...</Entry>
 >Пані?! Я заходжу в будинок...</Entry>
->I'm just letting you know that prank-calling police...</Entry>
 >Я лише хочу вам дати знати, що жартівливі виклики поліції...</Entry>
->Hey...</Entry>
 >Гей...</Entry>
->What the ...</Entry>
 >Що за ...</Entry>
->I know that sound...</Entry>
 >Я знаю цей звук...</Entry>
->Is anyone there ?</Entry>
 >Тут є хтось?</Entry>
->Find a tool to light up the environment.</Entry>
 >Знайдіть, чим освітити довкілля.</Entry>
->Examine the environment.</Entry>
 >Дослідіть довкілля.</Entry>
->Find the door's digital code.</Entry>
 >Знайдіть цифровий код від дверей.</Entry>
->Check out the 1989 room.</Entry>
 >Перевірте кімнату 1989.</Entry>
->Find the Pills</Entry>
 >Знайдіть пігулки.</Entry>
-">Find and pick up the gun.</Entry>
 ">Знайдіть та підберіть зброю.</Entry>
->Check the door at the end of the corridor.</Entry>
 >Перевірте двері у кінці коридору.</Entry>
 
->As I mentioned before, nothing's gonna change if you keep skipping
-taking your pills!  We had talked about this many times.
-You know very well that I don't like to try other methods...
-
-It's here! Every time I check the camera, I see it!
-Not itself, but I see that it's looking for me.
-It's back again,this time even faster than before!!!</Entry>
 >Як я зазначала раніше, нічого не зміниться, якщо ти не прийматимеш
 свої пігулки!  Ми вже не раз це обговорювали.
 Ти добре знаєш, що я не хочу пробувати інші методи...
@@ -681,166 +366,91 @@ It's back again,this time even faster than before!!!</Entry>
 Не його самого, та знаю, що воно шукає мене.
 Воно повернеться, але цього разу швидшим ніж до того!!!</Entry>
 
->To reload the Weapon</Entry>
 >, щоби перезарядити зброю</Entry>
->The Flashlights light reveals your hiding place in dark areas</Entry>
 >Світло ліхтарика висвітлює вашу схованку в темноті</Entry>
->Locker, under some tables and dark areas are good places to hide</Entry>
 >Шафки, під столом та темні закутки - хороші схованки</Entry>
->It's better to predict the moving path of the clown to avoid him</Entry>
 >Ліпше передбачати шлях клоуна, щоб уникнути його</Entry>
->Keep your stamina to escape from the Clown!</Entry>
 >Збережіть витривалість, щоб утекти від клоуна!</Entry>
->Head shots are the best way to kill enemies</Entry>
 >Постріл у голову - налійпший спосіб убити ворога</Entry>
->Hide from the Clown in the basement closet</Entry>
 >Сховайтеся від клоуна в підвальній шафці</Entry>
->Open</Entry>
 >Відчинити</Entry>
->VERTIGO</Entry>
 >ЗАПАМОРОЧЕННЯ</Entry>
->chapter three</Entry>
 >розділ третій</Entry>
->I don't feel good at all...</Entry>
 >У мене погане передчуття...</Entry>
->Not again...</Entry>
 >Тільки не знову...</Entry>
--Female >Are you calm now?</Entry>
 -Female >Тепер ти заспокоївся?</Entry>
->I'm at peace when I sit here and listen to this music.</Entry>
 >Я знаходжу спокій, коли сиджу тут і слухаю цю музику.</Entry>
--Female >Good...Martin?</Entry>
 -Female >Добре...Мартіне?</Entry>
--Female >Do you want to do the rest of our session, tomorrow?</Entry>
 -Female >Хочеш продовжити наш сеанс завтра?</Entry>
->Yes Susan, I think I'm a little tired for today...</Entry>
 >Так, Сюзано, гадаю, я надто втомився за сьогодні...</Entry>
--Female >Ok, no problem!</Entry>
 -Female >Гаразд, не проблема!</Entry>
--Female >Martin?! Did something happen?</Entry>
 -Female >Мартіне?! Щось сталося?</Entry>
->No! It's nothing...</Entry>
 >Ні! Це дрібниця...</Entry>
->The first time I came out of the room</Entry>
 >Уперше, як я вийшов з кімнати</Entry>
->and faced that dark corridor, I was terrified!</Entry>
 >та наткнувся на темний коридор, то був у жаху!</Entry>
->The second time, I was facing the same corridor,
-but I was still scared.</Entry>
 >Удруге, як я наткнувся на той же коридор,
 я все ще відчував страх.</Entry>
->But after the third time... I wasn't afraid anymore!</Entry>
 >Але втретє... Я вже не боявся!</Entry>
->It's been a long time, I'm not afraid of that dark corridor
-and all the things that happen alongside of it!</Entry>
 >Минуло багато часу, і мене більше не лякає цей темний коридор
 та все, що відбувається в ньому!</Entry>
->You know, reliving bitter and scary memories 
-doesn't make you brave, it makes you numb!</Entry>
 >Знаєш, переживання гірких і страшних спогадів 
 не робить тебе хоробрим, воно робить заціпенілим!</Entry>
->This place seems so familiar...</Entry>
 >Це місце так знайоме...</Entry>
->What the hell was that!?</Entry>
 >Що за хрінь тут відбувається!?</Entry>
->For using the Weapon</Entry>
 >, щоби використати зброю</Entry>
->Find a tool to light up the environment.</Entry>
 >Знайдіть, чим освітити довкілля.</Entry>
->Examine the environment.</Entry>
 >Дослідіть довкілля.</Entry>
->Find the way out with the help of the shapes  on the cell wall.</Entry>
 >Знайдіть, як вибратися за допомогою надписів на стіні камери.</Entry>
->Hide from the Clown!</Entry>
 >Сховайтеся від клоуна!</Entry>
->Find a way out</Entry>
 >Знайдіть спосіб вибратися.</Entry>
->Find the security card to open the exit door.</Entry>
 >Знайдіть перепустку, щоби відчинити вихід.</Entry>
->Use the security card to open the exit door.</Entry>
 >Використайте перепустку, щоби відчинити вихід.</Entry>
->Check the door at the end of the corridor.</Entry>
 >Перевірте двері у кінці коридору.</Entry>
 
--Female >On Halloween of 1989, the wife &amp; daughter of Officer Martin Fisher, a member of the area police force,  suspiciously were murdered at their home. Martin,  who wasn't at home at that time,  claimed that he noticed a strange clown smiling at him around the house when he returned home!</Entry>
 -Female >На Гелловін 1989 року, жінка та дочка офіцера Мартіна Фішера - працівника місцевої поліції,  були підозріло вбиті у своєму домі. Мартін,  який не був тоді у будинку,  стверджував, що коли повернувся, то помітив коло оселі дивного клоуна, який посміхався йому!</Entry>
 
--Female >Five years later ,  a young woman called the police and claimed that someone had entered her house. 
-Martin as the closest patrol officer went there to check the situation.
-After hearing the sound of gunshots from the house, the backup forces went there and found the body of a young lady at the top of the entrance stairs, who had been shot by Martin's weapon! Martin claimed after entering the house strange things happened to him,  while checking the house, a clown attacked him, and he shot that clown,
-not anyone else.</Entry>
 -Female >П’ять років по тому ,  дівчина викликала поліцію та заявила, що хтось проліз у її дім. 
 Мартін, як найближчий патрульний, вирушив перевірити ситуацію.
 Після звуків пострілів, що лунали з будинку, прибули додаткові сили  та застали покійну молоду пані на вершині вхідних сходів, яка була вбита зі зброї Мартіна! Сам ж Мартін стверджував, що коли увійшов до оселі, то з ним відбувалися дивні речі,  а під час перевірки помешкання на нього напав клоун, якого він застрелив
 і більше нікого.</Entry>
 
--Female >Currently, I had more than 16 psychiatric sessions with Martin, the results of which are included in his file,
-but according to my sessions with Martin, to be honest, something, in this case, has preoccupied my mind.
-What if something really happened to Martin? what if something supernatural is hidden in this case?</Entry>
 -Female >Наразі, я провела 16 психіатричних сеансів з Мартіном, результати яких включені у його справу,
 але, чесно кажучи, під час моїх сеансів з ним, дещо, в цьому випадку, зацікавило мене.
 Що, якщо з Мартіном дійсно щось сталося? Що, якщо в цій справі приховано щось надприродне?</Entry>
 
--Female >I don't know if what I'm trying to do is right or not. But I want to live in that house for a short time.</Entry>
 -Female >Не знаю, чи правильно те, що я намагаюся зробити. Але я хочу трохи пожити в цьому будинку.</Entry>
 
->Dr. Susan Hopkins
-September 1994</Entry>
 >Др. Сюзан Гопкінс
 Вересень 1994</Entry>
 
->NIGHTMARE</Entry>
->КОШМАР</Entry>
->chapter four</Entry>
+>ЖАХІТТЯ</Entry>
 >розділ четвертий</Entry>
 
->SEPTEMBER 1994</Entry>
 >ВЕРЕСЕНЬ 1994</Entry>
 >01:48 AM </Entry>
->01:48 AM </Entry>
->Basement door is locked...</Entry>
 >Двері у підвал зачинені...</Entry>
->Find all the pills hidden in the environment before the times up out to earn more points !</Entry>
 >Знайдіть усі заховані пігулки доки не сплине час, щоби набрати найбільше очок!</Entry>
->Destroy all red eyes mannequins before the times up to earn more points !</Entry>
 >Знищіть усіх червонооких манекені доки не сплине час, щоби набрати найбільше очок!</Entry>
->Choose your map to challenge yourself !</Entry>
 >Виберіть свій виклик!</Entry>
->Pills Challenge</Entry>
 >Виклик з пігулками</Entry>
->Shot Challenge</Entry>
 >Виклик зі зброєю</Entry>
 
->New Challenge
-(Coming Soon)</Entry>
 >Новий виклик
 (Скоро буде)</Entry>
 
->For Running</Entry>
 >, щоби бігти</Entry>
->Choose The Difficulty</Entry>
 >Виберіть складність</Entry>
->Arousal (easy)</Entry>
 >Збудження (легко)</Entry>
->Parasomnias (normal)</Entry>
 >Парасомнія (середньо)</Entry>
->Narcolepsy (hard)</Entry>
 >Нарколепсія (важко)</Entry>
 
->You have not earned any scores yet !
-(Complete one of the challenges to enter the leaderboard)</Entry>
 >Ви не заробили жодних очок!
 (Виконайте один з викликів, щоби попасти у таблицю лідерів)</Entry>
 
->Use the map in your inventory to locate the placement of the pills</Entry>
 >Використовуйте мапу в спорядженні, щоби знайти всі пігулки</Entry>
 
->Bonus Chapter
-(Coming Soon)</Entry>
 >Додатковий розділ
 (Скоро буде)</Entry>
 
->Set Default</Entry>
 >Як було</Entry>
->Game Volume</Entry>
 >Гучність гри</Entry>
