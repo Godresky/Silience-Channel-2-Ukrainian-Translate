@@ -1,0 +1,68 @@
+
+--- Placement method of the translated text ---
+
+>Sample Eng text for translate</Entry> = >Sample translated English text 
+
+For Example :
+>Sample single line text>
+>中文翻译文本样本</Entry>
+
+>Sample text of two lines of the first part
+Sample text of two lines of the second part</Entry>
+
+>第一部分的两行示例文本
+第二部分两行示例文本</Entry>
+
+***
+
+Note that the numbers must be written as letters.
+
+For Example :
+Chapter 1 = should be written like "Chapter One"
+
+***
+
+Some texts start with the word "-Female" and "-Girl Kid" and this indicates that
+the sentence is spoken by the female gender and the rest will be said by the male.
+
+
+---------------- Thanks ---------------------
+
+>Lantern</Entry>
+>Lantern is a lamp in a metal frame with glass sides and with a handle on top, it produce light by burning petrol oil.</Entry>
+
+>Alessa's room key</Entry>
+>Martin's room key</Entry>
+>Sussan's room key</Entry>
+>Check the Hush room !</Entry>
+>Find the first painting and solve the puzzle related to it.</Entry>
+>Find and check Alessa's room.</Entry>
+>Find and check Martin's room.</Entry>
+>Check Susan's room on the fourth floor.</Entry>
+>First painting</Entry>
+>Second painting</Entry>
+>Third painting</Entry>
+>A painting that should be placed on a specific wall.</Entry>
+>For using Lantern</Entry>
+>Find the second painting and solve the puzzle related to it.</Entry>
+>Find the third painting and solve the puzzle related to it.</Entry>
+
+>Daddy was so angry when he came home from work today!
+When I took Teddy to him to play, he yelled at me and threw Teddy aside. After that, mommy took me to my room hugged me, and told me not to leave the room.
+I can hear Mom and Dad shouting at each other outside...</Entry>
+
+>Doctor, I hope you are doing well.
+I wanted to talk to you about Martin's behavior,
+but you weren't at the office, so I left you a note.
+Martin is so anxious these days and is getting worse day by day. He told me that you changed his previous pills and prescribed new ones.
+I wanted to make sure that these pills are not the cause of these behaviors. Please let me know. 
+Alessa Fisher, Oct 30, 1989</Entry>
+
+>I love my wife and daughter, but they don't love me anymore,
+I'm afraid to lose them. We were happy together until I started to hear these voices in my head! When I hear the voices,
+Alessa just screams and Rose doesn't listen to me at all.
+I beg them not to scream but they don't care. I love my wife and daughter and no matter what,
+I'm not letting anything tear us apart.
+
+They're not allowed to leave me.
+They must stay with me forever...</Entry>
