@@ -29,40 +29,40 @@ the sentence is spoken by the female gender and the rest will be said by the mal
 ---------------- Thanks ---------------------
 
 >Ліхтар</Entry>
->Ліхтар - це лампа у металевій рамі зі скляними боками та ручкою зверху, що випромінює світло, спалюючи олію.</Entry>
+>Лампа, що випромінює світло, спалюючи олію, у металевій рамі зі скляними боками та ручкою зверху.</Entry>
 
 >Ключі від кімнати Алесси</Entry>
 >Ключі від кімнати Мартіна</Entry>
 >Ключі від кімнати Сюзани</Entry>
->Перевірте тиху кімнату!</Entry>
->Знайдіть першу картину та виріште загадку пов’язану з нею.</Entry>
+>Огляньте кімнату спокою!</Entry>
+>Знайдіть першу картину та розв’яжіть загадку, пов’язану з нею.</Entry>
 >Знайдіть та огляньте кімнату Алесси.</Entry>
 >Знайдіть та огляньте кімнату Мартіна.</Entry>
 >Огляньте кінмнату Сюзани на четвертому поверсі.</Entry>
 >Перша картина</Entry>
 >Друга картина</Entry>
 >Третя картина</Entry>
->A painting that should be placed on a specific wall.</Entry>
->For using Lantern</Entry>
->Find the second painting and solve the puzzle related to it.</Entry>
->Find the third painting and solve the puzzle related to it.</Entry>
+>Картина, що має бути розміщена на певній стіні.</Entry>
+>, щоби використати ліхтар</Entry>
+>Знайдіть другу картину та розв’яжіть загадку, пов’язану з нею.</Entry>
+>Знайдіть третю картину та розв’яжіть загадку, пов’язану з нею.</Entry>
 
->Daddy was so angry when he came home from work today!
-When I took Teddy to him to play, he yelled at me and threw Teddy aside. After that, mommy took me to my room hugged me, and told me not to leave the room.
-I can hear Mom and Dad shouting at each other outside...</Entry>
+>Татусь був таким злим, коли сьогодні повернувся з роботи!
+Коли я взяла ведмедика, аби погратися з ним, тато накричав на мене та викинув його. Після, мама завела мене у мою кімнату, обійняла та сказала нікуди не виходити.
+Я чую, як мати та батько кричать одне на одного надворі...</Entry>
 
->Doctor, I hope you are doing well.
-I wanted to talk to you about Martin's behavior,
-but you weren't at the office, so I left you a note.
-Martin is so anxious these days and is getting worse day by day. He told me that you changed his previous pills and prescribed new ones.
-I wanted to make sure that these pills are not the cause of these behaviors. Please let me know. 
-Alessa Fisher, Oct 30, 1989</Entry>
+>Лікарю, сподіваюся, ваші справи добре.
+Я хотіла поговорити про поведінку Мартіна,
+але вас не було в кабінеті, тож залишила записку.
+Мартін дуже тривожний останнім часом, і йому стає дедалі гірше. Він розповів, що ви змінили попередні пігулки на нові.
+Я хочу впевнитися, що ті ліки не спричиняють таку поведінку. Будь ласка, дайте мені знати. 
+Алесса Фішер, Жов 30, 1989</Entry>
 
->I love my wife and daughter, but they don't love me anymore,
-I'm afraid to lose them. We were happy together until I started to hear these voices in my head! When I hear the voices,
-Alessa just screams and Rose doesn't listen to me at all.
-I beg them not to scream but they don't care. I love my wife and daughter and no matter what,
-I'm not letting anything tear us apart.
+>Я кохаю своїх жінку і доньку, але вони мене більше ні,
+мені лячно їх втрати. Ми були щасливими, доки я не почав чути голоси в голові! Коли вони лунають,
+Алесса верещить, а Роза більше мене не слухає.
+Я благав не лементувати, проте їм байдуже. Але попри все, я кохаю своїх жінку і доньку
+та не дозволю, аби нас щось розлучило.
 
-They're not allowed to leave me.
-They must stay with me forever...</Entry>
+Їм не можна мене покидати.
+Вони мусять бути зі мною назавжди...</Entry>
